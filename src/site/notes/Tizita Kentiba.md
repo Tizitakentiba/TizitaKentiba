@@ -3,7 +3,7 @@
 ---
 
 # Tizita Kentiba
-
+![Pasted image 20250704140132.png|300](/img/user/Pasted%20image%2020250704140132.png)
 **Program Manager | Capacity Builder | Leadership Trainer**
 
 📍 Addis Ababa, Ethiopia  
