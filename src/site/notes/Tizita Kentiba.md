@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tizita-kentiba/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tizita-kentiba/","tags":["gardenEntry"],"dgShowInlineTitle":true,"dgEnableSearch":true}
 ---
 
 # Tizita Kentiba
